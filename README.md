@@ -1,5 +1,5 @@
-# Shitty-PUBG-Source
-A really old and bad pubg source for educational purposes
+# Pubg-Source-Code
+A really old pubg source for educational purposes
 Shout out to nameless developers and Red Delilah 
 Yes It isn't all in english and I'm not transalting...google it.
 Needs heavy changes and updates
